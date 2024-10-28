@@ -3,6 +3,8 @@ import streamlit as st
 import plotly.express as px
 from GetPlayerTrainingAverages import getTrainingAverages
 
+st.set_page_config(page_title='Bolts Training Reprots', page_icon = 'Training.png')
+
 training_averages = getTrainingAverages()
 
 training_averages[['total_distance_m', 'total_high_intensity_distance_m']] = training_averages[['total_distance_m', 'total_high_intensity_distance_m']].astype(float)
