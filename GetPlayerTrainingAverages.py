@@ -5,7 +5,7 @@ import pytz
 
 def getTrainingAverages():
 
-    folder_path = 'BoltsSportsScienceReports/Detailed_Training_Sessions'
+    folder_path = 'Detailed_Training_Sessions'
 
     csv_files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
 
