@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 from GetPlayerTrainingAverages import getTrainingAverages
 
-st.set_page_config(page_title='Bolts Training Reprots', page_icon = 'Training.png')
+st.set_page_config(page_title='Bolts Training Reports', page_icon = 'Training.png')
 
 training_averages = getTrainingAverages()
 
