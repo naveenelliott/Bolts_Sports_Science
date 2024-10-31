@@ -32,6 +32,9 @@ training_averages.rename(columns={'total_distance_m': 'Total Dist',
 training_averages.sort_values('Total Dist', ascending=False, inplace=True)
 training_averages.reset_index(drop=True, inplace=True)
 
+avg_total_dist = team_data['Total Dist'].mean()
+avg_hid = team_data['HID'].mean()
+
 col1, col2 = st.columns(2)
 
 with col1:
@@ -44,6 +47,21 @@ with col2:
         y='HID',
         hover_name='athlete_name',
         title='Training Averages by Athlete', 
+    )
+
+    fig.add_shape(
+        type="line",
+        x0=avg_total_dist, x1=avg_total_dist,
+        y0=team_data['HID'].min(), y1=team_data['HID'].max(),
+        line=dict(color="black", width=2, dash="dash"),
+        name="Avg Total Dist"
+    )
+    fig.add_shape(
+        type="line",
+        x0=team_data['Total Dist'].min(), x1=team_data['Total Dist'].max(),
+        y0=avg_hid, y1=avg_hid,
+        line=dict(color="black", width=2, dash="dash"),
+        name="Avg HID"
     )
 
     fig.update_traces(marker=dict(color='lightblue', size=10))
