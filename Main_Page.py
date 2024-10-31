@@ -32,8 +32,8 @@ training_averages.rename(columns={'total_distance_m': 'Total Dist',
 training_averages.sort_values('Total Dist', ascending=False, inplace=True)
 training_averages.reset_index(drop=True, inplace=True)
 
-avg_total_dist = team_data['Total Dist'].mean()
-avg_hid = team_data['HID'].mean()
+avg_total_dist = training_averages['Total Dist'].mean()
+avg_hid = training_averages['HID'].mean()
 
 col1, col2 = st.columns(2)
 
