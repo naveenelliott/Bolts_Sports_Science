@@ -52,13 +52,13 @@ with col2:
     fig.add_shape(
         type="line",
         x0=avg_total_dist, x1=avg_total_dist,
-        y0=team_data['HID'].min(), y1=team_data['HID'].max(),
+        y0=training_averages['HID'].min(), y1=training_averages['HID'].max(),
         line=dict(color="black", width=2, dash="dash"),
         name="Avg Total Dist"
     )
     fig.add_shape(
         type="line",
-        x0=team_data['Total Dist'].min(), x1=team_data['Total Dist'].max(),
+        x0=training_averages['Total Dist'].min(), x1=training_averages['Total Dist'].max(),
         y0=avg_hid, y1=avg_hid,
         line=dict(color="black", width=2, dash="dash"),
         name="Avg HID"
