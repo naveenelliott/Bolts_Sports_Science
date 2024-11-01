@@ -1,8 +1,41 @@
 session_type,start_time,bolts team,athlete_name,total_distance_m,total_high_intensity_distance_m
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Asher Herrmann,3908.714438639431,75.70057489633751
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Finn Van Clief,2535.1392739899047,0.0
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Henry Freeman,3346.4174044904757,0.0
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Jake Ciavarro,3801.6803582011567,90.72329122407407
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Jonah Greenblatt,4062.616283762834,92.40715476037084
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Kaio Morais,0.0,0.0
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Killian Walsh,4439.819514546539,72.3075042200556
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Logan Moniz,4549.8819334394175,192.34112192841627
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Marcus Cooper,4042.6968975787336,0.0
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Sam Cunniffe,0.0,0.0
+TrainingSession,2024-10-24T22:50:00.000Z,Boston Bolts MLS Next U17,Vasilian Mbrice,4382.472325044384,110.29655224424721
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Asher Herrmann,5961.188118760809,239.788813450948
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Henry Freeman,6547.407064047964,268.29853722393386
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Jake Ciavarro,6139.938264400014,227.7645141004
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Jonah Greenblatt,6608.61556042971,260.3612772836916
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Kaio Morais,6964.856696717042,431.9195494568312
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Killian Walsh,7173.431472269406,370.0387037135813
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Logan Moniz,2073.6351245006485,0.0
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Marcus Cooper,1445.40275149135,0.0
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Sam Cunniffe,6784.297625128497,134.83809815308058
+TrainingSession,2024-10-23T22:50:00.000Z,Boston Bolts MLS Next U17,Vasilian Mbrice,7693.189970117242,395.94322359980873
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Asher Herrmann,3776.8321569758327,86.22360734022715
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Finn Van Clief,0.0,0.0
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Henry Freeman,3729.0633228443476,68.97106148554049
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Jake Ciavarro,3858.880966439463,57.46111298139076
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Jonah Greenblatt,4364.624366853568,45.457588334245294
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Kaio Morais,3672.9643532312284,97.41364024816266
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Killian Walsh,3796.8621584711914,43.16901755477956
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Logan Moniz,0.0,0.0
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Marcus Cooper,3035.293429467337,43.13484152925606
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Sam Cunniffe,0.0,0.0
+TrainingSession,2024-10-22T22:50:00.000Z,Boston Bolts MLS Next U17,Vasilian Mbrice,0.0,0.0
 TrainingSession,2024-10-10T22:50:00.000Z,Boston Bolts MLS Next U17,Asher Herrmann,425.091261565486,0.0
 TrainingSession,2024-10-10T22:50:00.000Z,Boston Bolts MLS Next U17,Brendan Furlonge,0.0,0.0
 TrainingSession,2024-10-10T22:50:00.000Z,Boston Bolts MLS Next U17,Finn Van Clief,4795.3866685853955,162.494580374675
 TrainingSession,2024-10-10T22:50:00.000Z,Boston Bolts MLS Next U17,Henry Freeman,4776.998052272166,199.26984687802783
+TrainingSession,2024-10-10T22:50:00.000Z,Boston Bolts MLS Next U17,Jake Ciavarro,5327.81227170868,196.73135704798563
 TrainingSession,2024-10-10T22:50:00.000Z,Boston Bolts MLS Next U17,Jonah Greenblatt,5693.327623547957,224.8962198946264
 TrainingSession,2024-10-10T22:50:00.000Z,Boston Bolts MLS Next U17,Kaio Morais,0.0,0.0
 TrainingSession,2024-10-10T22:50:00.000Z,Boston Bolts MLS Next U17,Killian Walsh,5176.720167809066,241.61681706122172
